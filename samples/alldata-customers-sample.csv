@@ -1,0 +1,7 @@
+Customer ID,First Name,Last Name,Business Name,Address,City,State,Zip,Home Phone,Cell Phone,Work Phone,Email,Contact By,Status,Tax Status
+RIV001,Jordan,Rivera,,100 Sample Street (fictional),Sampleville,CA,00000,(650) 555-0161,(650) 555-0151,,jordan.rivera.sample@example.com,Cell Phone,Current,2 Taxable
+BRO001,Casey,Brooks,,200 Sample Street (fictional),Sampleville,CA,00000,,(650) 555-0152,,casey.brooks.sample@example.com,Email,Current,2 Taxable
+BEN001,Taylor,Bennett,,300 Sample Street (fictional),Sampleville,CA,00000,(650) 555-0163,,,taylor.bennett.sample@example.com,Home Phone,Current,2 Taxable
+ELL001,Morgan,Ellis,,400 Sample Street (fictional),Sampleville,CA,00000,,(650) 555-0154,(650) 555-0174,morgan.ellis.sample@example.com,Cell Phone,Current,2 Taxable
+FOS001,Riley,Foster,,500 Sample Street (fictional),Sampleville,CA,00000,,(650) 555-0155,,,Cell Phone,Current,2 Taxable
+SAM001,,,"Sample Delivery Fleet (fictional)",600 Sample Street (fictional),Sampleville,CA,00000,,,(650) 555-0176,fleet.sample@example.com,Email,Current,1 Resale Exempt
